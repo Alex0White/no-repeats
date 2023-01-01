@@ -1,0 +1,28 @@
+{
+    "name": "no-repeats",
+    "version": "1.0.0",
+    "description": "no repeats algorithm",
+    "main": "noRepeats.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Alex0White/no-repeats.git"
+    },
+    "keywords": [
+        "repeats",
+        "javascript",
+        "testing",
+        "algorithm"
+    ],
+    "author": "FreeCodeCamp",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Alex0White/no-repeats/issues"
+    },
+    "homepage": "https://github.com/Alex0White/no-repeats#readme",
+    "devDependencies": {
+        "jest": "^29.3.1"
+    }
+}
